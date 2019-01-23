@@ -1,0 +1,7 @@
+<svg width="329" height="205" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <g>
+  <title>Layer 1</title>
+  <text font-style="normal" font-weight="bold" stroke="#000000" transform="matrix(12.327002405572784,0,0,7.708382574258393,-2399.5280003573253,-1006.6665842020636) " xml:space="preserve" text-anchor="middle" font-family="serif" font-size="24" id="svg_2" y="152" x="208" stroke-width="0" fill="#ff007f">JF</text>
+ </g>
+</svg>
